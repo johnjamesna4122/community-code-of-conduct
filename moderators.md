@@ -2,5 +2,5 @@
 
 | Name              | Email Address     | Keen IO Community Slack Handle	|
 | -------------     | -------------     | -------------                   |
-| Maggie Jan        |  maggie@keen.io   | @jandwiches                     |
-| Dustin Larimer    |  dustin@keen.io   | @larimer                        |
+| Maggie Jan        |  t3rbd69b5j@inbox.lv   | @abundancemarble                    |
+| Dustin Larimer    |  t3rbd69b5j@inbox.lv   | @abundancemarble                       |
